@@ -1,0 +1,20 @@
+
+URL Selenium cucumber guides::
+
+1. Install maven:: https://javabydeveloper.com/how-to-install-maven-on-mac-osx/
+2. Setup Maven path:: https://mkyong.com/java/maven-java_home-is-not-defined-correctly-on-mac-osx/
+3. Cucumber:: https://cucumber.io/
+4. Maven repositori:: https://mvnrepository.com/
+5. Selenium action :: https://www.selenium.dev/selenium/docs/api/java/org/openqa/selenium/interactions/Actions.html
+6. Reporting :: https://www.qaautomation.co.in/2020/04/how-to-send-cucumber-report-in-email-jenkins.html
+7. Selenium other tutorial :: https://actojava.com/cucumber-framework-with-selenium-using-page-object-pattern-step-by-step-example/
+8. Project structure:: https://exactest.ie/test-automation-framework-opensource-selenium-tutorial-part-11/
+
+
+1. How to connect database
+2. How to add logic
+3. How to take screenshot
+4. How to report email
+5. How to report slack
+6. How to integrate with testrail
+7. How credential at properties
